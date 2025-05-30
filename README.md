@@ -1,5 +1,5 @@
 # frontendchallengeserver
-
+check
 # Starting the sever
 
 Run:
